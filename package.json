@@ -1,0 +1,22 @@
+{
+  "name": "static-page-express-app",
+  "version": "1.0.0",
+  "description": "Create a static page express app assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HIROSN/static-page-express-app.git"
+  },
+  "author": "hirosn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HIROSN/static-page-express-app/issues"
+  },
+  "homepage": "https://github.com/HIROSN/static-page-express-app",
+  "dependencies": {
+    "express": "^4.10.1"
+  }
+}
